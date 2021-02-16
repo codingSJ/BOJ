@@ -2,6 +2,7 @@
 cmake-build-debug
 main.cpp
 CMakeLists.txt
+.idea
 
 # Prerequisites
 *.d
