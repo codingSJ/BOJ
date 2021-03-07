@@ -5,6 +5,7 @@
 #include <queue>
 
 using namespace std;
+using ll = long long;
 
 int T, I, sX, sY, eX, eY;
 int map[300][300];
